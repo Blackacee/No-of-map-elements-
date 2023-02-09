@@ -1,2 +1,4 @@
 # No-of-map-elements-
-Getting the no of elements a map has
+
+const map = new Map([[1, 2], [3, 4]]);
+console.log(map.size); // 2
